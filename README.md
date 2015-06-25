@@ -5,7 +5,7 @@ See http://www.jb.man.ac.uk/~cusworth/jacs.html for more information.
 
 The scripts show how to build and evaluate classifiers in SciKit learn and in Matlab.
 Also provides code useful for visualising feature separability within Matlab. Python 
-scripts designed to run on python 2.4 or later. Matlba scripts tested on Matlab 2014a.
+scripts designed to run on python 2.4 or later. Matlb scripts tested on Matlab 2014a.
 
 This is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
